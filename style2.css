@@ -1,0 +1,42 @@
+body {
+    background-color: #fff4f4;
+    color: #333;
+}
+#log{
+    background: #FFFFFF;
+    position: absolute;
+    top: 25%;
+    width:80%;
+    left: 10%;
+    height: 280px;
+    border-radius: 30px;
+    border: 5px solid #FFB1B1 ;
+    text-align: center;
+    color: #font-size: 22px;
+    border-radius: 20px;
+    border: 5px solid #FFB1B1;
+    color: #FF6A5D;
+}
+#pass{
+    font-size: 22px;
+    border-radius: 20px;
+    border: 2px solid #FFB1B1;
+}
+#lo{
+    font-size: 22px;
+    border-radius: 20px;
+    border: 2px solid #FF7569;
+    margin: 20px;
+    background-color: #FFB8B2;
+    color: #333;
+
+}
+#hi{
+    font-size: 22px;
+    border-radius: 20px;
+    border: 2px solid #FF7569;
+    margin: 20px;
+    background-color: #FFB8B2;
+    color: #333;
+
+}
